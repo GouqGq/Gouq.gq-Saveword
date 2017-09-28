@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Gouq.gq Saveword:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="800120d8-3bc8-4dbd-a729-0e0263046259" name="Default" comment="" />
+    <list default="true" id="800120d8-3bc8-4dbd-a729-0e0263046259" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/Gui$11.class" afterPath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/Gui$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/Gui.class" afterPath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/Gui.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/gq/gouq/Gui.java" afterPath="$PROJECT_DIR$/src/gq/gouq/Gui.java" />
+    </list>
     <ignored path="Gouq.gq Saveword.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,7 +37,7 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="0">
               <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -50,7 +62,7 @@
       <file leaf-file-name="KeyedTable.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gq/gouq/KeyedTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
+            <state relative-caret-position="854">
               <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -59,22 +71,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gui.form" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/gq/gouq/Gui.form">
-          <provider selected="true" editor-type-id="ui-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gui.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Gui.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/gq/gouq/Gui.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="249">
-              <caret line="241" column="98" selection-start-line="241" selection-start-column="87" selection-end-line="241" selection-end-column="98" />
+              <caret line="241" column="107" selection-start-line="241" selection-start-column="107" selection-end-line="241" selection-end-column="107" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#addListDataListener#0;class#11505:12383" expanded="false" />
-                <element signature="method#removeListDataListener#0;class#11505:12383" expanded="false" />
+                <element signature="method#addListDataListener#0;class#11509:12387" expanded="false" />
+                <element signature="method#removeListDataListener#0;class#11509:12387" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -83,7 +88,7 @@
       <file leaf-file-name="GenerateRandom.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gq/gouq/GenerateRandom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="1512">
               <caret line="77" column="37" selection-start-line="77" selection-start-column="37" selection-end-line="77" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -96,8 +101,11 @@
       </file>
       <file leaf-file-name="GenerateRandom.form" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gq/gouq/GenerateRandom.form">
-          <provider selected="true" editor-type-id="ui-designer">
-            <state />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -122,55 +130,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="882">
               <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#1611#0" expanded="false" />
-                <element signature="e#1536#1537#0" expanded="false" />
-                <element signature="e#1607#1608#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Short.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk-8u101/src.zip!/java/lang/Short.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#18883#0" expanded="false" />
-                <element signature="e#1758#1759#0" expanded="false" />
-                <element signature="e#1809#1810#0" expanded="false" />
-                <element signature="e#11109#11110#0" expanded="false" />
-                <element signature="e#11143#11144#0" expanded="false" />
-                <element signature="e#12042#12043#0" expanded="false" />
-                <element signature="e#12076#12077#0" expanded="false" />
-                <element signature="e#12199#12200#0" expanded="false" />
-                <element signature="e#12227#12228#0" expanded="false" />
-                <element signature="e#12432#12433#0" expanded="false" />
-                <element signature="e#12465#12466#0" expanded="false" />
-                <element signature="e#12672#12673#0" expanded="false" />
-                <element signature="e#12706#12707#0" expanded="false" />
-                <element signature="e#12916#12917#0" expanded="false" />
-                <element signature="e#12951#12952#0" expanded="false" />
-                <element signature="e#13164#13165#0" expanded="false" />
-                <element signature="e#13200#13201#0" expanded="false" />
-                <element signature="e#13666#13667#0" expanded="false" />
-                <element signature="e#13717#13718#0" expanded="false" />
-                <element signature="e#13949#13950#0" expanded="false" />
-                <element signature="e#13993#13994#0" expanded="false" />
-                <element signature="e#14282#14283#0" expanded="false" />
-                <element signature="e#14315#14316#0" expanded="false" />
-                <element signature="e#15557#15558#0" expanded="false" />
-                <element signature="e#15619#15620#0" expanded="false" />
-                <element signature="e#16203#16204#0" expanded="false" />
-                <element signature="e#16231#16232#0" expanded="false" />
-                <element signature="e#17050#17051#0" expanded="false" />
-                <element signature="e#17113#17114#0" expanded="false" />
-                <element signature="e#17882#17883#0" expanded="false" />
-                <element signature="e#17923#17924#0" expanded="false" />
-                <element signature="e#18697#18698#0" expanded="false" />
-                <element signature="e#18740#18741#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -183,6 +143,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -248,33 +211,45 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Gouq.gq Saveword" />
+              <option name="myItemId" value="Gouq.gq-Saveword" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Gouq.gq Saveword" />
+              <option name="myItemId" value="Gouq.gq-Saveword" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Gouq.gq Saveword" />
+              <option name="myItemId" value="Gouq.gq-Saveword" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Gouq.gq Saveword" />
+              <option name="myItemId" value="Gouq.gq-Saveword" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Gouq.gq Saveword" />
+              <option name="myItemId" value="Gouq.gq-Saveword" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gouq.gq-Saveword" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gouq.gq-Saveword" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -284,41 +259,21 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="gouq" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gouq.gq Saveword" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gouq.gq Saveword" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gouq" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GenerateRandom" />
-              <option name="myItemType" value="com.intellij.uiDesigner.projectView.FormNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -750,11 +705,11 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31310943" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31310943" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26865673" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27132195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -789,16 +744,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/gq/gouq/Password.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -838,8 +783,8 @@
           <caret line="108" column="39" selection-start-line="108" selection-start-column="39" selection-end-line="108" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#addListDataListener#0;class#11505:12383" expanded="false" />
-            <element signature="method#removeListDataListener#0;class#11505:12383" expanded="false" />
+            <element signature="method#addListDataListener#0;class#11509:12387" expanded="false" />
+            <element signature="method#removeListDataListener#0;class#11509:12387" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -848,41 +793,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
           <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#18883#0" expanded="false" />
-            <element signature="e#1758#1759#0" expanded="false" />
-            <element signature="e#1809#1810#0" expanded="false" />
-            <element signature="e#11109#11110#0" expanded="false" />
-            <element signature="e#11143#11144#0" expanded="false" />
-            <element signature="e#12042#12043#0" expanded="false" />
-            <element signature="e#12076#12077#0" expanded="false" />
-            <element signature="e#12199#12200#0" expanded="false" />
-            <element signature="e#12227#12228#0" expanded="false" />
-            <element signature="e#12432#12433#0" expanded="false" />
-            <element signature="e#12465#12466#0" expanded="false" />
-            <element signature="e#12672#12673#0" expanded="false" />
-            <element signature="e#12706#12707#0" expanded="false" />
-            <element signature="e#12916#12917#0" expanded="false" />
-            <element signature="e#12951#12952#0" expanded="false" />
-            <element signature="e#13164#13165#0" expanded="false" />
-            <element signature="e#13200#13201#0" expanded="false" />
-            <element signature="e#13666#13667#0" expanded="false" />
-            <element signature="e#13717#13718#0" expanded="false" />
-            <element signature="e#13949#13950#0" expanded="false" />
-            <element signature="e#13993#13994#0" expanded="false" />
-            <element signature="e#14282#14283#0" expanded="false" />
-            <element signature="e#14315#14316#0" expanded="false" />
-            <element signature="e#15557#15558#0" expanded="false" />
-            <element signature="e#15619#15620#0" expanded="false" />
-            <element signature="e#16203#16204#0" expanded="false" />
-            <element signature="e#16231#16232#0" expanded="false" />
-            <element signature="e#17050#17051#0" expanded="false" />
-            <element signature="e#17113#17114#0" expanded="false" />
-            <element signature="e#17882#17883#0" expanded="false" />
-            <element signature="e#17923#17924#0" expanded="false" />
-            <element signature="e#18697#18698#0" expanded="false" />
-            <element signature="e#18740#18741#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -890,7 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8505">
           <caret line="442" column="13" selection-start-line="442" selection-start-column="13" selection-end-line="442" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -943,8 +853,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#addListDataListener#0;class#11505:12383" expanded="false" />
-            <element signature="method#removeListDataListener#0;class#11505:12383" expanded="false" />
+            <element signature="method#addListDataListener#0;class#11509:12387" expanded="false" />
+            <element signature="method#removeListDataListener#0;class#11509:12387" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -953,41 +863,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
           <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#18883#0" expanded="false" />
-            <element signature="e#1758#1759#0" expanded="false" />
-            <element signature="e#1809#1810#0" expanded="false" />
-            <element signature="e#11109#11110#0" expanded="false" />
-            <element signature="e#11143#11144#0" expanded="false" />
-            <element signature="e#12042#12043#0" expanded="false" />
-            <element signature="e#12076#12077#0" expanded="false" />
-            <element signature="e#12199#12200#0" expanded="false" />
-            <element signature="e#12227#12228#0" expanded="false" />
-            <element signature="e#12432#12433#0" expanded="false" />
-            <element signature="e#12465#12466#0" expanded="false" />
-            <element signature="e#12672#12673#0" expanded="false" />
-            <element signature="e#12706#12707#0" expanded="false" />
-            <element signature="e#12916#12917#0" expanded="false" />
-            <element signature="e#12951#12952#0" expanded="false" />
-            <element signature="e#13164#13165#0" expanded="false" />
-            <element signature="e#13200#13201#0" expanded="false" />
-            <element signature="e#13666#13667#0" expanded="false" />
-            <element signature="e#13717#13718#0" expanded="false" />
-            <element signature="e#13949#13950#0" expanded="false" />
-            <element signature="e#13993#13994#0" expanded="false" />
-            <element signature="e#14282#14283#0" expanded="false" />
-            <element signature="e#14315#14316#0" expanded="false" />
-            <element signature="e#15557#15558#0" expanded="false" />
-            <element signature="e#15619#15620#0" expanded="false" />
-            <element signature="e#16203#16204#0" expanded="false" />
-            <element signature="e#16231#16232#0" expanded="false" />
-            <element signature="e#17050#17051#0" expanded="false" />
-            <element signature="e#17113#17114#0" expanded="false" />
-            <element signature="e#17882#17883#0" expanded="false" />
-            <element signature="e#17923#17924#0" expanded="false" />
-            <element signature="e#18697#18698#0" expanded="false" />
-            <element signature="e#18740#18741#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -995,7 +871,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8505">
           <caret line="442" column="13" selection-start-line="442" selection-start-column="13" selection-end-line="442" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1048,8 +923,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#addListDataListener#0;class#11505:12383" expanded="false" />
-            <element signature="method#removeListDataListener#0;class#11505:12383" expanded="false" />
+            <element signature="method#addListDataListener#0;class#11509:12387" expanded="false" />
+            <element signature="method#removeListDataListener#0;class#11509:12387" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1058,41 +933,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
           <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#18883#0" expanded="false" />
-            <element signature="e#1758#1759#0" expanded="false" />
-            <element signature="e#1809#1810#0" expanded="false" />
-            <element signature="e#11109#11110#0" expanded="false" />
-            <element signature="e#11143#11144#0" expanded="false" />
-            <element signature="e#12042#12043#0" expanded="false" />
-            <element signature="e#12076#12077#0" expanded="false" />
-            <element signature="e#12199#12200#0" expanded="false" />
-            <element signature="e#12227#12228#0" expanded="false" />
-            <element signature="e#12432#12433#0" expanded="false" />
-            <element signature="e#12465#12466#0" expanded="false" />
-            <element signature="e#12672#12673#0" expanded="false" />
-            <element signature="e#12706#12707#0" expanded="false" />
-            <element signature="e#12916#12917#0" expanded="false" />
-            <element signature="e#12951#12952#0" expanded="false" />
-            <element signature="e#13164#13165#0" expanded="false" />
-            <element signature="e#13200#13201#0" expanded="false" />
-            <element signature="e#13666#13667#0" expanded="false" />
-            <element signature="e#13717#13718#0" expanded="false" />
-            <element signature="e#13949#13950#0" expanded="false" />
-            <element signature="e#13993#13994#0" expanded="false" />
-            <element signature="e#14282#14283#0" expanded="false" />
-            <element signature="e#14315#14316#0" expanded="false" />
-            <element signature="e#15557#15558#0" expanded="false" />
-            <element signature="e#15619#15620#0" expanded="false" />
-            <element signature="e#16203#16204#0" expanded="false" />
-            <element signature="e#16231#16232#0" expanded="false" />
-            <element signature="e#17050#17051#0" expanded="false" />
-            <element signature="e#17113#17114#0" expanded="false" />
-            <element signature="e#17882#17883#0" expanded="false" />
-            <element signature="e#17923#17924#0" expanded="false" />
-            <element signature="e#18697#18698#0" expanded="false" />
-            <element signature="e#18740#18741#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1100,7 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8505">
           <caret line="442" column="13" selection-start-line="442" selection-start-column="13" selection-end-line="442" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1139,8 +979,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#addListDataListener#0;class#11505:12383" expanded="false" />
-            <element signature="method#removeListDataListener#0;class#11505:12383" expanded="false" />
+            <element signature="method#addListDataListener#0;class#11509:12387" expanded="false" />
+            <element signature="method#removeListDataListener#0;class#11509:12387" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1182,8 +1022,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#addListDataListener#0;class#11505:12383" expanded="false" />
-            <element signature="method#removeListDataListener#0;class#11505:12383" expanded="false" />
+            <element signature="method#addListDataListener#0;class#11509:12387" expanded="false" />
+            <element signature="method#removeListDataListener#0;class#11509:12387" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1236,7 +1076,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8505">
           <caret line="442" column="13" selection-start-line="442" selection-start-column="13" selection-end-line="442" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1244,41 +1083,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
           <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#18883#0" expanded="false" />
-            <element signature="e#1758#1759#0" expanded="false" />
-            <element signature="e#1809#1810#0" expanded="false" />
-            <element signature="e#11109#11110#0" expanded="false" />
-            <element signature="e#11143#11144#0" expanded="false" />
-            <element signature="e#12042#12043#0" expanded="false" />
-            <element signature="e#12076#12077#0" expanded="false" />
-            <element signature="e#12199#12200#0" expanded="false" />
-            <element signature="e#12227#12228#0" expanded="false" />
-            <element signature="e#12432#12433#0" expanded="false" />
-            <element signature="e#12465#12466#0" expanded="false" />
-            <element signature="e#12672#12673#0" expanded="false" />
-            <element signature="e#12706#12707#0" expanded="false" />
-            <element signature="e#12916#12917#0" expanded="false" />
-            <element signature="e#12951#12952#0" expanded="false" />
-            <element signature="e#13164#13165#0" expanded="false" />
-            <element signature="e#13200#13201#0" expanded="false" />
-            <element signature="e#13666#13667#0" expanded="false" />
-            <element signature="e#13717#13718#0" expanded="false" />
-            <element signature="e#13949#13950#0" expanded="false" />
-            <element signature="e#13993#13994#0" expanded="false" />
-            <element signature="e#14282#14283#0" expanded="false" />
-            <element signature="e#14315#14316#0" expanded="false" />
-            <element signature="e#15557#15558#0" expanded="false" />
-            <element signature="e#15619#15620#0" expanded="false" />
-            <element signature="e#16203#16204#0" expanded="false" />
-            <element signature="e#16231#16232#0" expanded="false" />
-            <element signature="e#17050#17051#0" expanded="false" />
-            <element signature="e#17113#17114#0" expanded="false" />
-            <element signature="e#17882#17883#0" expanded="false" />
-            <element signature="e#17923#17924#0" expanded="false" />
-            <element signature="e#18697#18698#0" expanded="false" />
-            <element signature="e#18740#18741#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1286,11 +1091,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="882">
           <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#1611#0" expanded="false" />
-            <element signature="e#1536#1537#0" expanded="false" />
-            <element signature="e#1607#1608#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1315,16 +1116,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/KeyedTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/gq/gouq/Password.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1338,7 +1129,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="0">
           <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1346,26 +1137,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Gui.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="241" column="98" selection-start-line="241" selection-start-column="87" selection-end-line="241" selection-end-column="98" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#addListDataListener#0;class#11505:12383" expanded="false" />
-            <element signature="method#removeListDataListener#0;class#11505:12383" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/gq/gouq/GenerateRandom.form">
-      <provider selected="true" editor-type-id="ui-designer">
+      <provider editor-type-id="ui-designer">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gq/gouq/GenerateRandom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="1512">
           <caret line="77" column="37" selection-start-line="77" selection-start-column="37" selection-end-line="77" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1375,16 +1160,134 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Gui.form">
-      <provider selected="true" editor-type-id="ui-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
+    <entry file="file://$PROJECT_DIR$/Gouq.gq Saveword.iml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Gui.form">
+      <provider editor-type-id="ui-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/KeyedTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="854">
+          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Gui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="241" column="107" selection-start-line="241" selection-start-column="107" selection-end-line="241" selection-end-column="107" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addListDataListener#0;class#11509:12387" expanded="false" />
+            <element signature="method#removeListDataListener#0;class#11509:12387" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Gouq.gq Saveword:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>8u101</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Gouq.gq Saveword</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

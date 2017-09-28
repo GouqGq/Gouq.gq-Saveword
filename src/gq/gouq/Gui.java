@@ -239,7 +239,7 @@ public class Gui extends JFrame {
                 if(Desktop.isDesktopSupported())
                 {
                     try {
-                        Desktop.getDesktop().browse(new URI("https://github.com/GouqGq/ClickItAuto/"));
+                        Desktop.getDesktop().browse(new URI("https://github.com/GouqGq/Gouq.gq-Saveword"));
                     } catch (IOException e1) {
                         e1.printStackTrace();
                     } catch (URISyntaxException e1) {

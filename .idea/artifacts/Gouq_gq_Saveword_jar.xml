@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Gouq.gq Saveword:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gouq_gq_Saveword_jar</output-path>
+    <root id="archive" name="Gouq.gq Saveword.jar">
+      <element id="module-output" name="Gouq.gq Saveword" />
+    </root>
+  </artifact>
+</component>
