@@ -48,7 +48,7 @@ public class Gui extends JFrame {
     public TimerTask save_passwords;
 
     Gui(){
-        super("Gouq.gq Serializer");
+        super("Gouq.gq Saveword");
         setContentPane(panel1);
         pack();
         setDefaultCloseOperation(WindowConstants.HIDE_ON_CLOSE);

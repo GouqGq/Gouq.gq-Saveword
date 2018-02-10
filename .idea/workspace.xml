@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="800120d8-3bc8-4dbd-a729-0e0263046259" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/gq/gouq/Gui.java" afterPath="$PROJECT_DIR$/src/gq/gouq/Gui.java" />
     </list>
     <ignored path="Gouq.gq Saveword.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="567">
+              <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,7 +56,7 @@
       <file leaf-file-name="KeyedTable.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gq/gouq/KeyedTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1428">
+            <state relative-caret-position="830">
               <caret line="75" column="21" lean-forward="false" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -65,15 +65,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gui.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Gui.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/gq/gouq/Gui.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4956">
-              <caret line="249" column="11" lean-forward="false" selection-start-line="249" selection-start-column="11" selection-end-line="249" selection-end-column="11" />
+            <state relative-caret-position="546">
+              <caret line="50" column="31" lean-forward="false" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#addListDataListener#0;class#11509:12387" expanded="false" />
-                <element signature="method#removeListDataListener#0;class#11509:12387" expanded="false" />
+                <element signature="method#addListDataListener#0;class#11507:12385" expanded="false" />
+                <element signature="method#removeListDataListener#0;class#11507:12385" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -599,6 +599,14 @@
       <option name="presentableId" value="Default" />
       <updated>1506098293293</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1518293062294</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1518293062294</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -644,6 +652,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -693,8 +705,8 @@
           <caret line="108" column="39" lean-forward="false" selection-start-line="108" selection-start-column="39" selection-end-line="108" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#addListDataListener#0;class#11509:12387" expanded="false" />
-            <element signature="method#removeListDataListener#0;class#11509:12387" expanded="false" />
+            <element signature="method#addListDataListener#0;class#11507:12385" expanded="false" />
+            <element signature="method#removeListDataListener#0;class#11507:12385" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -750,8 +762,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#addListDataListener#0;class#11509:12387" expanded="false" />
-            <element signature="method#removeListDataListener#0;class#11509:12387" expanded="false" />
+            <element signature="method#addListDataListener#0;class#11507:12385" expanded="false" />
+            <element signature="method#removeListDataListener#0;class#11507:12385" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -807,8 +819,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#addListDataListener#0;class#11509:12387" expanded="false" />
-            <element signature="method#removeListDataListener#0;class#11509:12387" expanded="false" />
+            <element signature="method#addListDataListener#0;class#11507:12385" expanded="false" />
+            <element signature="method#removeListDataListener#0;class#11507:12385" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -849,8 +861,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#addListDataListener#0;class#11509:12387" expanded="false" />
-            <element signature="method#removeListDataListener#0;class#11509:12387" expanded="false" />
+            <element signature="method#addListDataListener#0;class#11507:12385" expanded="false" />
+            <element signature="method#removeListDataListener#0;class#11507:12385" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -874,8 +886,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#addListDataListener#0;class#11509:12387" expanded="false" />
-            <element signature="method#removeListDataListener#0;class#11509:12387" expanded="false" />
+            <element signature="method#addListDataListener#0;class#11507:12385" expanded="false" />
+            <element signature="method#removeListDataListener#0;class#11507:12385" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -908,17 +920,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Password.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding>
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -962,9 +963,30 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Password.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/gq/gouq/KeyedTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
+        <state relative-caret-position="830">
           <caret line="75" column="21" lean-forward="false" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -974,22 +996,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gq/gouq/Gui.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4956">
-          <caret line="249" column="11" lean-forward="false" selection-start-line="249" selection-start-column="11" selection-end-line="249" selection-end-column="11" />
+        <state relative-caret-position="546">
+          <caret line="50" column="31" lean-forward="false" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#addListDataListener#0;class#11509:12387" expanded="false" />
-            <element signature="method#removeListDataListener#0;class#11509:12387" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#addListDataListener#0;class#11507:12385" expanded="false" />
+            <element signature="method#removeListDataListener#0;class#11507:12385" expanded="false" />
           </folding>
         </state>
       </provider>
