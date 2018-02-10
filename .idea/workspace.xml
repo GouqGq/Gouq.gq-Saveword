@@ -6,15 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="800120d8-3bc8-4dbd-a729-0e0263046259" name="Default" comment="Added Weights for Random Passwords">
+    <list default="true" id="800120d8-3bc8-4dbd-a729-0e0263046259" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/com/intellij/uiDesigner/core/GridLayoutManager.class" afterPath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/com/intellij/uiDesigner/core/GridLayoutManager.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom$1.class" afterPath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom$2.class" afterPath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom$2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom$3.class" afterPath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom$3.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom.class" afterPath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/Gui.class" afterPath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/Gui.class" />
-      <change beforePath="$PROJECT_DIR$/src/gq/gouq/GenerateRandom.form" afterPath="$PROJECT_DIR$/src/gq/gouq/GenerateRandom.form" />
       <change beforePath="$PROJECT_DIR$/src/gq/gouq/GenerateRandom.java" afterPath="$PROJECT_DIR$/src/gq/gouq/GenerateRandom.java" />
     </list>
     <ignored path="Gouq.gq Saveword.iws" />
@@ -99,8 +92,8 @@
       <file leaf-file-name="GenerateRandom.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/gq/gouq/GenerateRandom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="70" column="38" lean-forward="true" selection-start-line="70" selection-start-column="38" selection-end-line="70" selection-end-column="38" />
+            <state relative-caret-position="816">
+              <caret line="73" column="13" lean-forward="true" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -188,7 +181,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -628,7 +621,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518293137558</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Weights for Random Passwords">
+      <created>1518294206926</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1518294206926</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1016,8 +1016,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gq/gouq/GenerateRandom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="70" column="38" lean-forward="true" selection-start-line="70" selection-start-column="38" selection-end-line="70" selection-end-column="38" />
+        <state relative-caret-position="816">
+          <caret line="73" column="13" lean-forward="true" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

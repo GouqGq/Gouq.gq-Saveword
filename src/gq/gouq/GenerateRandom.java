@@ -53,29 +53,29 @@ public class GenerateRandom extends JFrame {
                 Random rnd = new Random();
 
                 int length = (int) spinner1.getValue();
-                String characters = textArea1.getText();
-                String password = "";
+                StringBuilder characters = new StringBuilder(textArea1.getText());
+                StringBuilder password = new StringBuilder();
 
                 if(lowerCaseLettersCheckBox.isSelected())
                     for (int i = 0; i < (int)spinner_lower_case.getValue(); i++)
-                        characters += "abcdefghijklmnopqrstuvwxyz";
+                        characters.append("abcdefghijklmnopqrstuvwxyz");
 
                 if (capitalLettersCheckBox.isSelected())
                     for (int i = 0; i < (int)spinner_capital.getValue(); i++)
-                        characters += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+                        characters.append("ABCDEFGHIJKLMNOPQRSTUVWXYZ");
 
                 if (digitsCheckBox.isSelected())
                     for (int i = 0; i < (int)spinner_digits.getValue(); i++)
-                        characters += "0123456789";
+                        characters.append("0123456789");
 
                 if(punctuationsCheckBox.isSelected())
                     for (int i = 0; i < (int)spinner_punctuations.getValue(); i++)
-                        characters += "!@#$%&*()_+-=[]|,.;:/?><";
-
+                        characters.append("!@#$%&*()_+-=[]|,.;:/?><");
+                
                 for (int i = 0; i < length; i++)
-                    password += characters.toCharArray()[rnd.nextInt(characters.length())];
+                    password.append(characters.toString().toCharArray()[rnd.nextInt(characters.length())]);
 
-                textField1.setText(password);
+                textField1.setText(password.toString());
             }
         });
 
