@@ -20,6 +20,10 @@ public class GenerateRandom extends JFrame {
     private JTextArea textArea1;
     private JPanel panel1;
     private JSpinner spinner1;
+    private JSpinner spinner_lower_case;
+    private JSpinner spinner_capital;
+    private JSpinner spinner_digits;
+    private JSpinner spinner_punctuations;
 
     private Gui gui;
 
@@ -53,16 +57,20 @@ public class GenerateRandom extends JFrame {
                 String password = "";
 
                 if(lowerCaseLettersCheckBox.isSelected())
-                    characters += "abcdefghijklmnopqrstuvwxyz";
+                    for (int i = 0; i < (int)spinner_lower_case.getValue(); i++)
+                        characters += "abcdefghijklmnopqrstuvwxyz";
 
                 if (capitalLettersCheckBox.isSelected())
-                    characters += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+                    for (int i = 0; i < (int)spinner_capital.getValue(); i++)
+                        characters += "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
                 if (digitsCheckBox.isSelected())
-                    characters += "0123456789";
+                    for (int i = 0; i < (int)spinner_digits.getValue(); i++)
+                        characters += "0123456789";
 
                 if(punctuationsCheckBox.isSelected())
-                    characters += "!@#$%&*()_+-=[]|,.;:/?><";
+                    for (int i = 0; i < (int)spinner_punctuations.getValue(); i++)
+                        characters += "!@#$%&*()_+-=[]|,.;:/?><";
 
                 for (int i = 0; i < length; i++)
                     password += characters.toCharArray()[rnd.nextInt(characters.length())];
@@ -95,6 +103,15 @@ public class GenerateRandom extends JFrame {
     private void createUIComponents() {
         SpinnerNumberModel model = new SpinnerNumberModel(6, 2, 200, 1);
         spinner1 = new JSpinner(model);
+
+        SpinnerNumberModel model1 = new SpinnerNumberModel(1, 1, 25, 1);
+        spinner_lower_case = new JSpinner(model1);
+        SpinnerNumberModel model2 = new SpinnerNumberModel(1, 1, 25, 1);
+        spinner_capital = new JSpinner(model2);
+        SpinnerNumberModel model3 = new SpinnerNumberModel(1, 1, 25, 1);
+        spinner_digits = new JSpinner(model3);
+        SpinnerNumberModel model4 = new SpinnerNumberModel(1, 1, 25, 1);
+        spinner_punctuations = new JSpinner(model4);
     }
 
 }

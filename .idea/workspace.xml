@@ -6,9 +6,16 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="800120d8-3bc8-4dbd-a729-0e0263046259" name="Default" comment="">
+    <list default="true" id="800120d8-3bc8-4dbd-a729-0e0263046259" name="Default" comment="Added Weights for Random Passwords">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/gq/gouq/Gui.java" afterPath="$PROJECT_DIR$/src/gq/gouq/Gui.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/com/intellij/uiDesigner/core/GridLayoutManager.class" afterPath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/com/intellij/uiDesigner/core/GridLayoutManager.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom$1.class" afterPath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom$1.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom$2.class" afterPath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom$2.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom$3.class" afterPath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom$3.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom.class" afterPath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/GenerateRandom.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/Gui.class" afterPath="$PROJECT_DIR$/out/production/Gouq.gq Saveword/gq/gouq/Gui.class" />
+      <change beforePath="$PROJECT_DIR$/src/gq/gouq/GenerateRandom.form" afterPath="$PROJECT_DIR$/src/gq/gouq/GenerateRandom.form" />
+      <change beforePath="$PROJECT_DIR$/src/gq/gouq/GenerateRandom.java" afterPath="$PROJECT_DIR$/src/gq/gouq/GenerateRandom.java" />
     </list>
     <ignored path="Gouq.gq Saveword.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="567">
-              <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+              <caret line="27" column="29" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gui.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Gui.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gq/gouq/Gui.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="50" column="31" lean-forward="false" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+            <state relative-caret-position="171">
+              <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#addListDataListener#0;class#11507:12385" expanded="false" />
@@ -79,15 +86,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GenerateRandom.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BasicButtonListener.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/javax/swing/plaf/basic/BasicButtonListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="251" column="0" lean-forward="false" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenerateRandom.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/gq/gouq/GenerateRandom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1512">
-              <caret line="77" column="37" lean-forward="false" selection-start-line="77" selection-start-column="37" selection-end-line="77" selection-end-column="37" />
+            <state relative-caret-position="479">
+              <caret line="70" column="38" lean-forward="true" selection-start-line="70" selection-start-column="38" selection-end-line="70" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#956#957#0" expanded="true" />
-                <element signature="e#1008#1009#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,11 +152,11 @@
         <option value="$PROJECT_DIR$/src/gq/gouq/Password.java" />
         <option value="$PROJECT_DIR$/src/gq/gouq/TableData.java" />
         <option value="$PROJECT_DIR$/src/gq/gouq/KeyedTable.java" />
-        <option value="$PROJECT_DIR$/src/gq/gouq/GenerateRandom.form" />
         <option value="$PROJECT_DIR$/src/gq/gouq/Main.java" />
-        <option value="$PROJECT_DIR$/src/gq/gouq/GenerateRandom.java" />
         <option value="$PROJECT_DIR$/src/gq/gouq/Gui.form" />
         <option value="$PROJECT_DIR$/src/gq/gouq/Gui.java" />
+        <option value="$PROJECT_DIR$/src/gq/gouq/GenerateRandom.form" />
+        <option value="$PROJECT_DIR$/src/gq/gouq/GenerateRandom.java" />
       </list>
     </option>
   </component>
@@ -606,7 +621,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518293062294</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit">
+      <created>1518293137558</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1518293137558</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -615,13 +637,14 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31310943" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20978262" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -634,7 +657,6 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19393283" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -655,7 +677,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Added Weights for Random Passwords" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Weights for Random Passwords" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -666,17 +689,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/Password.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding>
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/gq/gouq/KeyedTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -923,29 +935,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/GenerateRandom.form">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="ui-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gq/gouq/GenerateRandom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="77" column="37" lean-forward="false" selection-start-line="77" selection-start-column="37" selection-end-line="77" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#956#957#0" expanded="true" />
-            <element signature="e#1008#1009#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gouq.gq Saveword.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -966,7 +955,7 @@
     <entry file="file://$PROJECT_DIR$/src/gq/gouq/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
-          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <caret line="27" column="29" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -994,14 +983,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/GenerateRandom.form">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/gq/gouq/Gui.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="50" column="31" lean-forward="false" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+        <state relative-caret-position="171">
+          <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#addListDataListener#0;class#11507:12385" expanded="false" />
             <element signature="method#removeListDataListener#0;class#11507:12385" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/javax/swing/plaf/basic/BasicButtonListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="251" column="0" lean-forward="false" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gq/gouq/GenerateRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="70" column="38" lean-forward="true" selection-start-line="70" selection-start-column="38" selection-end-line="70" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
